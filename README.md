@@ -8,6 +8,8 @@ US Bikeshare Analysis Tool
 For this project, I used Python to study data about bike sharing in three major US cities: Chicago, New York City, and Washington. I wrote code to bring in the data and figure out useful information by doing some math. Also, I made a program that lets people type things in the computer to see interesting facts about the data.
 
 ### Files used:
+1. Run the analysis by running the bikeshare.py script
+2. The program will prompt you to select a city to analyze (Chicago, New York, Washington).
 - chicago.csv
 - washington.csv
 - new_york_city.csv
